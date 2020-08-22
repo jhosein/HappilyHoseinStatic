@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:12:46	69/69	---MCZ	200	added ('OK')	text/plain	date:Sat,%2022%20Aug%202020%2021:12:46%20GMT	https://happilyhosein.com/robots.txt		(from )

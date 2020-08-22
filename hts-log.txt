@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Aug 2020 16:14:03 at https://happilyhosein.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://happilyhosein.com/ -O1 "B:\src\HappilyHoseinStatic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:14:20	Error: 	"Method Not Allowed" (405) at link https://happilyhosein.com/xmlrpc.php (from https://happilyhosein.com/)
+16:14:56	Error: 	"Not Found" (404) at link https://happilyhosein.com/wp-content/themes/stack/style/fonts/glyphicons-halflings-regular.eot (from https://happilyhosein.com/wp-content/themes/stack/style/css/bootstrap.css?ver=10.5.17)
+16:14:56	Error: 	"Not Found" (404) at link https://happilyhosein.com/wp-content/themes/stack/style/fonts/glyphicons-halflings-regular.eot? (from https://happilyhosein.com/wp-content/themes/stack/style/css/bootstrap.css?ver=10.5.17)
+16:14:56	Error: 	"Not Found" (404) at link https://happilyhosein.com/wp-content/themes/stack/style/fonts/glyphicons-halflings-regular.woff (from https://happilyhosein.com/wp-content/themes/stack/style/css/bootstrap.css?ver=10.5.17)
+16:14:56	Error: 	"Not Found" (404) at link https://happilyhosein.com/wp-content/themes/stack/style/fonts/glyphicons-halflings-regular.ttf (from https://happilyhosein.com/wp-content/themes/stack/style/css/bootstrap.css?ver=10.5.17)
+16:14:56	Error: 	"Not Found" (404) at link https://happilyhosein.com/wp-content/themes/stack/style/fonts/glyphicons-halflings-regular.svg (from https://happilyhosein.com/wp-content/themes/stack/style/css/bootstrap.css?ver=10.5.17)
+16:14:56	Warning: 	Moved Permanently for https://happilyhosein.com/?p=173
+16:14:56	Warning: 	File has moved from https://happilyhosein.com/?p=173 to https://happilyhosein.com/wedding-live-stream/
+16:14:58	Warning: 	Moved Permanently for https://happilyhosein.com/?p=126
+16:14:58	Warning: 	File has moved from https://happilyhosein.com/?p=126 to https://happilyhosein.com/parking/
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/setColors.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/eventPolyfill.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/colorDiff.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/hexToRgb.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/setDirection.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/makeGradient.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/getDimensions.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/animateColors.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/getLightness.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/refreshColors.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/changeState.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/pause.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/play.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/clear.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/getCurrentColors.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:01	Error: 	"Not Found" (404) at link https://happilyhosein.com/pauseWhenNotInView.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:02	Error: 	"Not Found" (404) at link https://happilyhosein.com/onResize.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:02	Error: 	"Not Found" (404) at link https://happilyhosein.com/lib/Granim.js (from https://happilyhosein.com/wp-content/themes/stack/style/js/granim.js?ver=10.5.17)
+16:15:02	Error: 	"Not Found" (404) at link https://happilyhosein.com/twitter.com/ (from https://happilyhosein.com/wp-content/themes/stack/style/js/twitter-post-fetcher.js?ver=10.5.17)
+16:15:02	Warning: 	Moved Permanently for https://happilyhosein.com/?p=151
+16:15:02	Warning: 	File has moved from https://happilyhosein.com/?p=151 to https://happilyhosein.com/july-2nd-covid-19-update-hosein-wedding/
+
+HTTrack Website Copier/3.49-2 mirror complete in 59 seconds : 183 links scanned, 154 files written (22863867 bytes overall), 155 files updated [19550073 bytes received at 331357 bytes/sec], 6106178 bytes transferred using HTTP compression in 105 files, ratio 36%, 20.3 requests per connection
+(25 errors, 6 warnings, 0 messages)
